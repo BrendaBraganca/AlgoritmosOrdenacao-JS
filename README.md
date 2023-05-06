@@ -1,10 +1,10 @@
 <h1 align=center>
-  💻<br> Algoritimos de Ordernação-JavaScript
+  💻<br> Algoritmos de Ordernação-JavaScript
   </h1>
   
 ## 📌Introdução:
 - 📁Arquivo: introducao.js
-- Função: unir dois arrays desordenadas.
+- Função: unir dois arrays desordenados.
 - Compara cada item dos arrays.
 - Cria um novo array com itens ordenados.
 ---
@@ -19,8 +19,8 @@
 ## 📌Introdução conceito de pivô:
 - 📁Arquivo: encontraMenores.js
 - Função: devolver um array ordernado até o índice do pivô.
-- As variáveis e parâmentros nomeados "refrencia" estão se referindo ao pivô.
-- Ordena o array tocando os índices dos objetos.
+- As variáveis e parâmentros nomeados "referencia" estão se referindo ao pivô.
+- Ordena o array trocando os índices dos objetos.
 ---
 
 ## 📌Quick Sort:
@@ -36,7 +36,7 @@
 - 📁Arquivo: buscaBinaria.js
 - Função: encontrar o índice do item desejado.
 - Algoritmo de busca.
-- Divide um array ao meio recurssivamente até que o item desejado tenha como índice o número (arredondado) equivalente a metade da quantidade de itens da lista.
+- Divide um array ao meio recursivamente até que o item desejado tenha como índice o número (arredondado) equivalente a metade da quantidade de itens da lista.
 
 
 ---
